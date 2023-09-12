@@ -46,3 +46,4 @@ const[a,,,d]=dbz;
 
 console.log(`Personaje 1: ${a}`);
 console.log(`Personaje n: ${d}`);
+
